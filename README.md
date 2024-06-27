@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 Hi, I'm Nikhil Santwani<br>🌟 Passionate Java Full Stack Developer | Crafting robust and scalable web applications<br>🎓 Lifelong learner | Continuously evolving with new technologies and best practices<br>🚀 Open to new opportunities and collaborations<br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nikhil-santwani-42a335221) 
 
